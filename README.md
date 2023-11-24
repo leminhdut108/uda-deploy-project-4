@@ -80,10 +80,6 @@ The e2e tests are using Protractor and Jasmine.
 "# udagram_project" 
 
 
-My account:
-    email: leminh10897@gmail.com
-    password: minh1234
-
 My config in circleci:
 
 AWS_ACCESS_KEY_ID : AKIA2IBQLTCZ7R2YEXP6
