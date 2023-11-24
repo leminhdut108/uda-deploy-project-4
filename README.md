@@ -73,7 +73,7 @@ The e2e tests are using Protractor and Jasmine.
 
 ## Application deployed link 
 (The link below may be expired, please login again aws account)
-- Udagram Frontend: http://udagramfe.s3-website-us-east-1.amazonaws.com/
+- Udagram Frontend: http://minhhl2-bucket.s3-website-us-east-1.amazonaws.com 
 - Udagram API: http://minhhl2-eb.us-east-1.elasticbeanstalk.com/
 
 # udagram
