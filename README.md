@@ -79,7 +79,6 @@ The e2e tests are using Protractor and Jasmine.
 # udagram
 "# udagram_project" 
 
-
 My config in circleci:
 
 AWS_ACCESS_KEY_ID : AKIA2IBQLTCZ7R2YEXP6
