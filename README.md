@@ -86,12 +86,13 @@ My account:
 
 My config in circleci:
 
-AWS_ACCESS_KEY_ID : AKIA2IBQLTCZSOIOOOUE
+AWS_ACCESS_KEY_ID : AKIA2IBQLTCZ7R2YEXP6
 AWS_BUCKET : minhhl2-bucket
 AWS_DEFAULT_REGION : us-east-1
 AWS_PROFILE : default
 AWS_REGION : us-east-1
-AWS_SECRET_ACCESS_KEY : dFmP/sH3MzRJFW4Zy3zHC2nxCHUBjK3musHnPz8L
+AWS_SECRET_ACCESS_KEY : tXmNOkEMdzPcUFI7deNJzBg1Cg0aYhQibexHkiS9
+
 
 JWT_SECRET : minhhl2_secret
 POSTGRES_HOST : database-1.ck3uod918mcw.us-east-1.rds.amazonaws.com
