@@ -64,8 +64,8 @@ jobs:
           # TODO: Install, build, deploy in both apps
           command: |
             echo "# TODO: Install, build, deploy in both apps FE and BE"
-            npm run api:deploy
             npm run frontend:deploy
+            npm run api:deploy
 workflows:
   udagram:
     jobs:
