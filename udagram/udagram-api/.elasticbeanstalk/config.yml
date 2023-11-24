@@ -1,8 +1,8 @@
 branch-defaults:
   default:
-    environment: udagram-api-dev
+    environment: minhhl2-eb-env
 global:
-  application_name: udagram-api
+  application_name: minhhl2-eb
   branch: null
   repository: null
   default_ec2_keyname: null
